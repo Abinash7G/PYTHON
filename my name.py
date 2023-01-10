@@ -1,0 +1,5 @@
+a= input ("Enter your first name")
+b= input ("Enter ")
+c= input ("Enter your age")
+print ("My name is" ,a,b)
+print("Your age is" ,c)

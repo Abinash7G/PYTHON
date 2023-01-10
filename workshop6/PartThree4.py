@@ -1,0 +1,5 @@
+user_name= input('Please enter your name')
+user_age= int(input ('Please enter your age'))
+user_address= input ('Please enter your address')
+output= "Hi %s, you are %d years old and you live in %s." %(user_name, user_age, user_address)
+print(output)

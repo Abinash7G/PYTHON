@@ -1,0 +1,5 @@
+First_name=input("Enter your First Name: ")
+Last_name= input("Enter your Last Name: ")
+Address= input ("Enter your Address: ")
+print ("Your name is",First_name,Last_name)
+print("Your Address is",Address)
